@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>齐子僖欢迎您！</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #E7E8B5;
+}
+-->
+</style></head>
+
+<body>
+<table width="659" height="312" border="1" align="center">
+  <tr bgcolor="#C36AE1">
+    <td height="52" colspan="8"><div align="center"><strong><a href="openlab.docx">座   次   表</a></strong></div></td>
+  </tr>
+  <tr>
+    <th width="94" height="50" bgcolor="#68F2F0"><div align="center"><a href="HTML/甲A.png">甲A</a></div></th>
+    <th width="94" height="50" bgcolor="#68F2F0"><div align="center"><a href="HTML/乙A.png">乙A</a></div></th>
+    <th width="19" height="50"><div align="center"></div></th>
+    <th width="94" height="50" bgcolor="#68F2F0"><div align="center"><a href="HTML/丙A.png">丙A</a></div></th>
+    <th width="94" height="50" bgcolor="#68F2F0"><div align="center"><a href="HTML/丁A.png"> 丁A</a></div></th>
+    <th width="21" height="50"><div align="center"></div></th>
+    <th width="94" height="50" bgcolor="#68F2F0"><div align="center"><a href="HTML/戊A.png">戊A</a></div></th>
+    <th width="97" height="50" bgcolor="#68F2F0"><div align="center"><a href="HTML/己A.png">己A</a></div></th>
+  </tr>
+  <tr>
+    <th height="50" bgcolor="#68F2F0"> 甲B</th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">乙B</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丙B</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丁B</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">戊B</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">己B</div></th>
+  </tr>
+  <tr>
+    <th height="50" bgcolor="#68F2F0"><div align="center">甲C</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">乙C</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丙C</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丁C</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">戊C</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">己C</div></th>
+  </tr>
+  <tr>
+    <th height="50" bgcolor="#68F2F0"><div align="center">甲D</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">乙D</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丙D</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丁D</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">戊D</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">己D</div></th>
+  </tr>
+  <tr>
+    <th height="50" bgcolor="#68F2F0"><div align="center">甲E</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">乙E</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丙E</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丁E</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">戊E</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">己E</div></th>
+  </tr>
+  <tr>
+    <th height="50" bgcolor="#68F2F0"><div align="center"> 甲F</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">乙F</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丙F</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">丁F</div></th>
+    <th height="50"><div align="center"></div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">戊F</div></th>
+    <th height="50" bgcolor="#68F2F0"><div align="center">己F</div></th>
+  </tr>
+  <tr bgcolor="#F57D11">
+    <td height="52" colspan="8"><div align="center"><strong>讲 台</strong></div></td>
+  </tr>
+</table>
+<p align="center"><img src="openlab.jpg" width="640" height="494" /></p>
+</body>
+</html>
